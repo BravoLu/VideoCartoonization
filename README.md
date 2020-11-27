@@ -1,3 +1,5 @@
+* This is a demo that cartoonize a video using [1]. [bilibili](https://www.bilibili.com/video/BV1ZT4y1T7qP).
+
 ## Installation
 
 1. Install the dependencies.
