@@ -1,4 +1,5 @@
-* This is a demo that cartoonize a video using [1]. [bilibili](https://www.bilibili.com/video/BV1ZT4y1T7qP).
+* This is a demo that cartoonizes a video using [1]. 
+* Watch the demo by [bilibili](https://www.bilibili.com/video/BV1ZT4y1T7qP).
 
 ## Installation
 
